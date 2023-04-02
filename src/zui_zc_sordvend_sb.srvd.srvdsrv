@@ -1,0 +1,4 @@
+@EndUserText.label: 'RAP Practice SB - Unmanaged Definition'
+define service ZUI_ZC_SORDVEND_SB {
+  expose ZI_SORD_VENDORS_SB as Vendor;
+}
